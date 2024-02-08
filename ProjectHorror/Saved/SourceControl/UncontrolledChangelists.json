@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/InventorySystem.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/FSlotStruct.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/FItemStruct.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/ItemData.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/I_InteractInterface.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/8O/9B2MJ2IOY395QI9WWWJIMW.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/Items/TestItem.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/dgdeg.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/ItemDataComp.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/Items/Icons/SuitPng.uasset"
+			]
+		}
+	]
+}
