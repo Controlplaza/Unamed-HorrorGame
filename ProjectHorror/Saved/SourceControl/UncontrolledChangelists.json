@@ -17,9 +17,18 @@
 				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/I_InteractInterface.uasset",
 				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/8O/9B2MJ2IOY395QI9WWWJIMW.uasset",
 				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/Items/TestItem.uasset",
-				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/dgdeg.uasset",
 				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/ItemDataComp.uasset",
-				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/Items/Icons/SuitPng.uasset"
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/Items/Icons/SuitPng.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Input/IMC_Default.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Input/Actions/IA_InputSettings.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Widgets/WB_Settings.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Widgets/WB_KeySlot.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Input/Actions/IA_Jump.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Input/Actions/IA_Move.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Input/Actions/IA_Look.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/dgdeg.uasset"
 			]
 		}
 	]
