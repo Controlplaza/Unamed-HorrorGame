@@ -72,3 +72,6 @@ MyProject/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+*.ini
+*.bin
