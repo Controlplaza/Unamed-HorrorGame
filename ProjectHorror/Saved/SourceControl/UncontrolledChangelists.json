@@ -28,6 +28,9 @@
 				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
 				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Input/Actions/IA_Move.uasset",
 				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Input/Actions/IA_Look.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/UI/W_InventorySlot.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/UI/W_InventoryGrid.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/UI/W_PlayerMenu.uasset",
 				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/dgdeg.uasset"
 			]
 		}
