@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/judne/Documents/GitHub/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/Items/EquippableItems/BP_FlashlightUpgraded.uasset",
+				"C:/Users/judne/Documents/GitHub/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/Items/EquippableItems/BP_Flashlight.uasset",
+				"C:/Users/judne/Documents/GitHub/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/Items/EquippableItems/AC_ShovelComponent.uasset",
+				"C:/Users/judne/Documents/GitHub/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/Items/EquippableItems/BP_Shovel.uasset",
 				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
 				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
