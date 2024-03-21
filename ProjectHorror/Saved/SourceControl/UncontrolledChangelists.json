@@ -31,6 +31,9 @@
 				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/UI/W_InventorySlot.uasset",
 				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/UI/W_InventoryGrid.uasset",
 				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/UI/W_PlayerMenu.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Input/Actions/IA_Inventory.uasset",
+				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/UI/W_PlayerHUD.uasset",
 				"F:/Proj/RadCo/Unamed-HorrorGame/ProjectHorror/Content/FirstPerson/Inventory/dgdeg.uasset"
 			]
 		}
